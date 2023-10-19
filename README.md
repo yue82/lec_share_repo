@@ -23,4 +23,4 @@ fizz
 buzz
 
 ## sentence
-I AM A CAT. As yet I have no name. I’ve no idea where I was born. 
+I AM A DOG. As yet I have no name. I’ve no idea where I was born. 
