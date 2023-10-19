@@ -21,6 +21,7 @@ fizzbuzz
 fizz
 19
 buzz
+fizz
 
 ## sentence
 I AM A BIRD. As yet I have no name. I’ve no idea where I was born. 
