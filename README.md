@@ -3,24 +3,24 @@
 0
 1
 2
-3
+fizz
 4
-5
-6
+buzz
+fizz
 7
 8
-9
-10
+fizz
+buzz
 11
-12
+fizz
 13
 14
-15
+fizzbuzz
 16
 17
-18
+fizz
 19
-20
+buzz
 
 ## sentence
 I AM A CAT. As yet I have no name. I’ve no idea where I was born. 
