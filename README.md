@@ -1,8 +1,8 @@
 # lec_share_repo
 ## sequence
-0
-1
-2
+0 zucchi
+1 fukky
+2 benihara-chan
 3
 4
 5
